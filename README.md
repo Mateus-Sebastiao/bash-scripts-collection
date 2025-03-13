@@ -1,5 +1,3 @@
-**Coleção de Scripts Bash para Automação e Administração de Sistemas**  
-
 ## **Sobre o Projeto**  
 Este repositório contém uma série de **scripts Bash** criados para facilitar tarefas administrativas no Linux. Cada script é projetado para resolver problemas específicos, melhorar a produtividade e automatizar processos comuns.  
 
@@ -38,9 +36,9 @@ chmod +x scripts/limpar-tmp.sh
 ## **Testes Automatizados**  
 Actualmente os testes devem ser feitos manualmente. Mas automatizarei daqui há algum tempo. Para rodar os testes manualmente:  
 ```
-./tests/teste-limpar-temp.sh
+./tests/test-limpar-tmp.sh
 ```
-Se passar, verá: **"Teste passou!"**  
+Se passar, verá: **"Teste passou!"**
 
 ## Licença  
 Este projeto está sob a licença **MIT**. Você pode usá-lo e modificá-lo livremente.  
