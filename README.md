@@ -1,7 +1,7 @@
 ## Sobre o Projeto  
 Este repositório contém uma série de **scripts Bash** criados para facilitar tarefas administrativas no Linux. Cada script é projetado para resolver problemas específicos, melhorar a produtividade e automatizar processos comuns.  
 
-**Primeiro projeto:** Script para limpar arquivos temporários antigos!  
+- **Primeiro projeto:** Script para limpar arquivos temporários antigos!  
 
 ## Scripts Disponíveis
 ### 1. limpar-tmp.sh – Limpeza de Arquivos Temporários  
