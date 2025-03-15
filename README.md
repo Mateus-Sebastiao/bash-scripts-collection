@@ -1,5 +1,5 @@
 ## Sobre o Projeto  
-Este repositório contém uma série de **scripts Bash** criados para facilitar tarefas administrativas no Linux. Cada script é projetado para resolver problemas específicos, melhorar a produtividade e automatizar processos comuns.  
+Este repositório contém uma série de **scripts Bash** criados para facilitar as minhas tarefas administrativas no Linux. Cada script é projetado para resolver problemas específicos, melhorar a produtividade e automatizar processos comuns. Espero que te sirva de alguma coisa; tanto para aprendizado, quanto para aplicação.  
 
 - **Primeiro projeto:** Script para limpar arquivos temporários antigos!  
 
